@@ -10,7 +10,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@2.0.0
 
         with:
-          find: "Hello"
+          find: "find"
           replace: "worldSignSign"
           regex: false
           
